@@ -22,8 +22,8 @@ def geomean(val_list):
 logger.info("Import OK")
 
 # Set input and output folders
-input_folder = 'imageJ_results/EIF4A3/Results/'
-output_path = 'python_results/EIF4A3/pixel_calculations/'
+input_folder = 'imageJ_results/FUS/Results/'
+output_path = 'python_results/FUS/pixel_calculations/'
 # Set threshold for excluding pixels that are part of the inclusions
 mCherry_threshold = 3000
 
