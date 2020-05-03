@@ -3,8 +3,7 @@ This repo contains the code and example data associated with the proteome solubi
 
 Manuscript preprint: https://www.biorxiv.org/content/biorxiv/early/2019/07/26/692103.full.pdf
 
-Final version: _upon acceptance_
-
+Final version: Sui, Xiaojing, et al. ["Widespread remodeling of proteome solubility in response to different protein homeostasis stresses."](https://www.pnas.org/content/117/5/2422.abstract) Proceedings of the National Academy of Sciences 117.5 (2020): 2422-2431.
 ## Prerequisites
 
 This analysis assumes a standard installation of Python 3 (=> 3.6), as well as [FiJi](https://fiji.sc/) (v 2.0.0) <sup>[1](footnote_1)</sup> and [CellProfiler](https://cellprofiler.org/) (v 3.1.9) <sup>[2](footnote_2)</sup>. For specific package requirements, see the `environment.yml` file.
